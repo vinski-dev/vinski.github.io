@@ -1,4 +1,3 @@
-# vinski.github.io
 # Hi, I'm Alvin Paano 👋
 
 
