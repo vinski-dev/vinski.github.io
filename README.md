@@ -6,7 +6,7 @@ Building the bridge between database logic and statistical integrity. Simulation
 - 🔭 Currently working on [AwesomeProject](https://github.com/vinski-dev/awesomeproject)
 - 🌱 Learning dbt, snowflake, blockchain dev and SQL
 - 👯 Open to collaborate on open-source projects
-- 💬 Ask me about Statistics, Python, PL/SQL and DevOps
+- 💬 Ask me about Statistics, Python, Panda, PL/SQL and DevOps
 - 📫 Reach me at: levinne521@gmail.com
 - ⚡ Fun fact: When I’m not coding, you’ll find me sharpening my reflexes on the badminton court.
 
